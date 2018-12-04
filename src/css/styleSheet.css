@@ -1,0 +1,42 @@
+.header {
+  height: 31px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px 24px 16px 0;
+  float: left;
+}
+.button {
+  margin-left: 20px;
+}
+.content-box {
+  padding: 0px 50px;
+  margin-top: 20px;
+}
+.contents {
+  background: #fff;
+  padding: 24px;
+  min-height: 380;
+  width: 35em;
+}
+.content-inner-box {
+  background: #bcbcbc;
+  padding: 24px;
+  min-height: 380;
+  font-weight: 500;
+}
+.content-li {
+  margin-left: 10px;
+}
+.cityHeader {
+  margin-left: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.zero-opacity {
+  opacity: 0;
+}
+.footer {
+  text-align: center;
+}
+.min-height-page {
+  min-height: 40em;
+}
